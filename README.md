@@ -54,7 +54,7 @@ Passionate about performance, security, and automation in data infrastructure. �
 
 ---
 
-## 📸 Sneak Peek (optional GIF banner)
+## 📸 Sneak Peek 
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" />
