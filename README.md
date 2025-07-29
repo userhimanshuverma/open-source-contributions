@@ -34,6 +34,9 @@
 
 - ✅ Improve Swagger UI compatibility with Knox by resolving 404s  
   🔗 [Apache Pinot PR #15728](https://github.com/apache/pinot/pull/15728)
+
+- ✅ Improve Swagger UI compatibility with Knox by resolving 404s  
+  🔗 [Apache Pinot PR #16440](https://github.com/apache/pinot/pull/16440)
 </details>
 
 <details>
